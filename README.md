@@ -9,7 +9,7 @@ Throughout my academic and professional journey, I've demonstrated leadership by
 <br>
   College Name:G.H.Raisoni Institution of Techology,Nagpur
 <br>
-  Starting Year: 2019
+  Starting Year: 2019<br>
   Completion Year: 2021
 
 · MCA(Master of Computer Application)<br>
@@ -17,7 +17,7 @@ Throughout my academic and professional journey, I've demonstrated leadership by
 <br>
   College Name:Jain(Deemed-to-be-university)
 <br>
-  Starting Year: 2021
+  Starting Year: 2021<br>
   Complection Year: 2023
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kunal-1207.github.io/website/)
