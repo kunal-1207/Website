@@ -1,43 +1,33 @@
-<h2 align="center">Myself Kunal M Waghmare and I'm a Software Engineer, from Nagpur</h2>
 
-###
+# About Me 
 
-<br clear="both">
+Hello there! I'm Kunal M Waghmare, a dynamic and accomplished individual with a passion for technology and a knack for problem-solving. I've successfully completed my BCA from G.H. Raisoni Institute of Technology in 2021 and continued my educational journey with a Master's in Computer Applications (MCA) from Jain (Deemed-to-be-University) during the lockdown in 2021-2023.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+Throughout my academic and professional journey, I've demonstrated leadership by spearheading various initiatives, orchestrating projects, and consistently achieving and surpassing set goals. Adept at effectively communicating complex ideas, I've presented proposals, authored reports, and collaborated with diverse teams. My ability to energize and persuade has been instrumental in driving positive outcomes. I possess strong research skills, having conducted in-depth analyses, diagnosed issues, and synthesized information to make informed decisions. I thrive in problem-solving environments.My creative flair extends to conceiving and designing solutions. I've initiated and revitalized projects, bringing a fresh perspective to the table.
+## Academics 
+· BCA(Bachelor Of Computer Application):
+<br>
+  College Name:G.H.Raisoni Institution of Techology,Nagpur
+<br>
+  Starting Year: 2019
+  Completion Year: 2021
 
-###
+· MCA(Master of Computer Application)<br>
+  (Specialization in AI):
+<br>
+  College Name:Jain(Deemed-to-be-university)
+<br>
+  Starting Year: 2021
+  Complection Year: 2023
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kunal-1207.github.io/website/)
 
-<br clear="both">
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kunalwagh1207)
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kunal-1207/count.svg?"  />
-</div>
+## 🛠 Skills
+C++, Python, HTML, Css, Javascript 
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-1207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-1207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
