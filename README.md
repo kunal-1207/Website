@@ -20,7 +20,7 @@ Throughout my academic and professional journey, I've demonstrated leadership by
   Starting Year: 2021<br>
   Complection Year: 2023
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kunal-1207.github.io/website/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kunal-1207.github.io/index.html)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-waghmare-b48b1b226/)
 
